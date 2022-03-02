@@ -9,6 +9,13 @@ POSレジです。実家の美容室で使用するために作成致しまし�
 
 そのため動作が遅いことを事前にお詫び致します。
 
+<img width="1381" alt="スクリーンショット 2022-03-02 17 44 28" src="https://user-images.githubusercontent.com/29172469/156326771-6f5eccf2-6e9e-4d8e-90a8-5a5fcd1a04bb.png">
+
+<img width="1386" alt="スクリーンショット 2022-03-02 17 44 54" src="https://user-images.githubusercontent.com/29172469/156326807-37afc75a-9860-4898-ab19-2439636777b6.png">
+
+<img width="1436" alt="スクリーンショット 2022-03-02 17 43 59" src="https://user-images.githubusercontent.com/29172469/156326829-6bf7b2bc-fe0b-4bb8-bfd5-0472ce949f9a.png">
+
+
 # 使用技術
 ・PHP
 
