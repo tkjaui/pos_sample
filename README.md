@@ -21,6 +21,10 @@ POSレジです。実家の美容室で使用するために作成致しまし�
 
 ・Javascript
 
+・HTML
+
+・CSS
+
 ・MySQL
 
 ・Apache
